@@ -7,7 +7,7 @@
 * github : [huskycat1202](https://huskycat1202.github.io)
 
 
-# < tudac >
+# tudac
 
 ### Team Members & Student ID
 
