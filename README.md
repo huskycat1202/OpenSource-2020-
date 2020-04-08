@@ -20,5 +20,6 @@
 * Lee HyeonJi  &nbsp; [이현지](https://huskycat1202.github.io) 2019052251
 
 ### Icon
-&nbsp; A chick who can do anything.
+&nbsp; A chick can do anything.
+
 <img src = "./Tudac.png" width="380">
