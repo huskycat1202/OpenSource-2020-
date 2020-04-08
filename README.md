@@ -1,4 +1,13 @@
-## < tudac >
+# SELF INTRO
+
+* Name : Lee HyeonJi
+
+* Student ID : 2019052251
+
+* github : [huskycat1202](https://huskycat1202.github.io)
+
+
+# < tudac >
 
 ### Team Members & Student ID
 
@@ -8,11 +17,8 @@
 
 * Lee SungMin  [이성민](https://lee-sungmin.github.io) 2019000773
 
-* Lee HyeonJi  &nbsp; [이현지](https://huskycat1202.github.io/) 2019052251
+* Lee HyeonJi  &nbsp; [이현지](https://huskycat1202.github.io) 2019052251
 
-### WHY?
-&nbsp; TTuk-TTak -> TTu-TTak -> tudac
-
-### Mascot
+### Icon
 &nbsp; A chick who can do anything.
 <img src = "./Tudac.png" width="110" height="300">
