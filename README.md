@@ -21,4 +21,4 @@
 
 ### Icon
 &nbsp; A chick who can do anything.
-<img src = "./Tudac.png" width="110" height="300">
+<img src = "./Tudac.png" width="1100" height="300">
