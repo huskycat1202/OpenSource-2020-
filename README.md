@@ -9,3 +9,7 @@
 * Lee SungMin  [이성민](https://lee-sungmin.github.io) 2019000773
 
 * Lee HyeonJi  &nbsp; [이현지](https://huskycat1202.github.io/) 2019052251
+
+### WHY?
+&nbsp; TTuk-TTak -> TTu-TTak -> tudac
+&nbsp; A chick who can do anything.
