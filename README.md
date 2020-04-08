@@ -15,3 +15,4 @@
 
 ### Mascot
 &nbsp; A chick who can do anything.
+<img src = "./Tudac.png" width="110" height="300">
