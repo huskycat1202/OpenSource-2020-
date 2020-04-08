@@ -13,4 +13,5 @@
 ### WHY?
 &nbsp; TTuk-TTak -> TTu-TTak -> tudac
 
+### Mascot
 &nbsp; A chick who can do anything.
