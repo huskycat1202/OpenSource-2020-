@@ -8,4 +8,4 @@
 
 * Lee SungMin  [이성민](https://lee-sungmin.github.io) 2019000773
 
-* Lee HyeonJi   [이현지](https://huskycat1202.github.io/) 2019052251
+* Lee HyeonJi  &nbsp; [이현지](https://huskycat1202.github.io/) 2019052251
